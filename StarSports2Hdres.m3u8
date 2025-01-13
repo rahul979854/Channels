@@ -1,0 +1,18 @@
+#EXTM3U
+#EXT-X-VERSION:6+
+
+# 1080p Resolution
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
+https://github.com/rahul979854/Channels/raw/main/StarSport2Hd_1080.m3u8
+
+# 720p Resolution
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
+https://github.com/rahul979854/Channels/raw/main/StarSport2Hd_720.m3u8
+
+# 480p Resolution
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=854x480
+https://github.com/rahul979854/Channels/raw/main/StarSport2Hd_480.m3u8
+
+# 360p Resolution
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360
+https://github.com/rahul979854/Channels/raw/main/StarSport2Hd_360.m3u8
