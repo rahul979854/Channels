@@ -1,18 +1,14 @@
 #EXTM3U
-#EXT-X-VERSION:6
-
-# 1080p Resolution
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
-http://starshare.live/live/bana/bana/2494_1080.m3u8
-
-# 720p Resolution
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
-http://starshare.live/live/bana/bana/2494_720.m3u8
-
-# 480p Resolution
-#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=854x480
-http://starshare.live/live/bana/bana/2494_480.m3u8
-
-# 360p Resolution
-#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360
-http://starshare.live/live/bana/bana/2494_360.m3u8
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:1
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTINF:1.000,
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/450008.ts
+#EXTINF:1.000,
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/450008.ts
+#EXTINF:1.000,
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/450008.ts
+#EXTINF:1.000,
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/450008.ts
+#EXTINF:1.000,
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/450008.ts
