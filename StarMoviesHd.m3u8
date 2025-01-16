@@ -1,10 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:4
+#EXT-X-TARGETDURATION:2
 #EXT-X-MEDIA-SEQUENCE:1
-#EXTINF:4.000,
-https://starshare.live:443/live/bana/bana/979.ts
-#EXTINF:4.000,
-https://starshare.live:443/live/bana/bana/979.ts
-#EXTINF:4.000,
-https://starshare.live:443/live/bana/bana/979.ts
+#EXTINF:1.000,
+https://starshare.live:443/live/bana/bana/979_1.ts
+#EXTINF:1.000,
+https://starshare.live:443/live/bana/bana/979_2.ts
+#EXTINF:1.000,
+https://starshare.live:443/live/bana/bana/979_3.ts
