@@ -3,12 +3,12 @@
 #EXT-X-TARGETDURATION:1
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTINF:1.000,
-http://bostv.one:8080/live/536/536/74227.ts
+http://stb.iphd.tv:80/live/14265424/9991524/102507.ts
 #EXTINF:1.000,
-http://bostv.one:8080/live/536/536/74227.ts
+http://stb.iphd.tv:80/live/14265424/9991524/102507.ts
 #EXTINF:1.000,
-http://bostv.one:8080/live/536/536/74227.ts
+http://stb.iphd.tv:80/live/14265424/9991524/102507.ts
 #EXTINF:1.000,
-http://bostv.one:8080/live/536/536/74227.ts
+http://stb.iphd.tv:80/live/14265424/9991524/102507.ts
 #EXTINF:1.000,
-http://bostv.one:8080/live/536/536/74227.ts
+http://stb.iphd.tv:80/live/14265424/9991524/102507.ts
