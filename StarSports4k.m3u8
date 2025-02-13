@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:1
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTINF:1.000,
+https://starshare.live:443/live/bana/bana/333368.ts
+#EXTINF:1.000,
+https://starshare.live:443/live/bana/bana/333368.ts
+#EXTINF:1.000,
+https://starshare.live:443/live/bana/bana/333368.ts
+#EXTINF:1.000,
+https://starshare.live:443/live/bana/bana/333368.ts
+#EXTINF:1.000,
+https://starshare.live:443/live/bana/bana/333368.ts
